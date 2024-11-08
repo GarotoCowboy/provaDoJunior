@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercicio1</string>
+
+    <string-array name="Amber">
+        <item>New Belgium Fat Tire Amber Ale </item>
+        <item>Brooklyn Amber Lager</item>
+        <item>Abita Amber</item>
+        <item>Rogue American Amber Ale</item>
+        <item>Full Sail Amber Ale</item>
+    </string-array>
+</resources>
